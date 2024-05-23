@@ -22,7 +22,7 @@ You are part of the incident response team that will be investigating the incide
 3 pdf files: system inventory.pdf, system logs.pdf and Employee Interviews.pdf
 
 
-# Project 3 - Security Assessment Report
+# Project 3 - Security Gap Assessment Report
 You work for a small OT Security consulting company, CyberGuardian OT Solutions. Your company focuses on consulting for organizations that operate in critical infrastructure sectors, such as power, water, and gas. Some of the services CyberGuardian OT Solutions provides include:
 
 1. Risk Assessment and Management - Evaluating the cybersecurity posture of client’s operational technology (OT) and information technology (IT) environments. Identifying vulnerabilities, potential threats, and the impact of cyber attacks.
